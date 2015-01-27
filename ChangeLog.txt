@@ -6,7 +6,7 @@
   - add showLineNumbers option
   - Add html syntax checker (danyaPostfactum)
  
-* new language modes
+* new language modessadfsaf
   - Gherkin (Patrick Nevels)
   - Smarty
 
